@@ -98,7 +98,7 @@ export default {
   },
   methods: {
     gotoNext () {
-      console.log('11111')
+      console.log('11111hfkdshfdkshfk')
       this.$router.push({name: 'FirstVue'})
     },
     goback () {
