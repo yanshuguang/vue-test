@@ -7,7 +7,7 @@
     <h3>{{ message }}</h3>
     <p>Original message: "{{ message }}"</p>
     <p>Computed reversed message: "{{ reversedMessage }}"</p>
-
+    <h2>随便写点啥，zzzzz</h2>
     <ul>
       <li v-for="(item,index) in items" :key="item.message">
         {{ index }}+++++{{ item.message }}
